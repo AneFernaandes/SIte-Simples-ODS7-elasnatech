@@ -19,12 +19,11 @@ header {
     padding: 5%;   
 }
 
-.container {
-    max-width: 90%;
-    margin: 10px auto;
-    padding: 5%;
-    background-color: white;
-}
+
+.imagens{
+    width: 90%;
+    height: 30%;
+}  
 
 h1 {
     color: white;
